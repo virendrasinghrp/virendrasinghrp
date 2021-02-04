@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&animation=default&layout=churchill)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
