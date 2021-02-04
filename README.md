@@ -1,6 +1,6 @@
 <!---
 ### Hi there 👋
-<!---
+
 **virendrasinghrp/virendrasinghrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&animation=default&layout=churchill)
+
 
 <!---[![Virendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=virendrasinghrp)](https://github.com/anuraghazra/github-readme-stats)-->
 
@@ -23,6 +22,8 @@ Here are some ideas to get you started:
 <!------------------------------------------------------------------------------------->
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">A problem solver from India</h3>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&animation=default&layout=churchill)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virendrasinghrp&label=Profile%20views&color=0e75b6&style=flat" alt="virendrasinghrp" /> </p>
 
