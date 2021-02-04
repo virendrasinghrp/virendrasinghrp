@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&animation=default&layout=churchill)
 
-[![Virendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=virendrasinghrp)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Virendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=virendrasinghrp)](https://github.com/anuraghazra/github-readme-stats)-->
