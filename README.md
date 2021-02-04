@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">A problem solver from India</h3>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&animation=default&layout=churchill)
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=graywhite&animation=default&layout=churchill) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virendrasinghrp&label=Profile%20views&color=0e75b6&style=flat" alt="virendrasinghrp" /> </p>
 
