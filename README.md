@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <!---[![Virendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=virendrasinghrp)](https://github.com/anuraghazra/github-readme-stats)-->
 
-
--->
 <!------------------------------------------------------------------------------------->
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">A problem solver from India</h3>
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 📝 I regularly write articles on [virendrasinghrp.github.io/blog](virendrasinghrp.github.io/blog)
+- 📝 I've started this new blog [virendrasinghrp.github.io/blog](virendrasinghrp.github.io/blog)
 
 - 📫 How to reach me **virendrasinghrp@gmail.com**
 
