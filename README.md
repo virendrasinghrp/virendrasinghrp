@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!------------------------------------------------------------------------------------->
 
-<img align="center" src="img/bramhi-hii.gif" alt="Hi" height="60vh" width="100%">
+<img align="center" src="img/bramhi-hii.gif" alt="Hi" height="150vh" width="100%">
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">A problem solver from India</h3>
 
