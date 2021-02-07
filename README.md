@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!------------------------------------------------------------------------------------->
 
-![Hi](img/bramhi-hii.gif)
+![Hi](img/bramhi-hii.gif = 600x200)
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">A problem solver from India</h3>
 
