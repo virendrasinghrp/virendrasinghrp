@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!------------------------------------------------------------------------------------->
 
-![Hi](https://tenor.com/view/hii-hello-namaste-namaskharam-salaam-gif-15842127)
+![Hi](img/bramhi-hii)
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">A problem solver from India</h3>
 
