@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!---[![Virendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=virendrasinghrp)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!------------------------------------------------------------------------------------->
-<div class="tenor-gif-embed" data-postid="15842127" data-share-method="host" data-width="100%" data-aspect-ratio="2.4174757281553396"><a href="https://tenor.com/view/hii-hello-namaste-namaskharam-salaam-gif-15842127">Hii Hello GIF</a> from <a href="https://tenor.com/search/hii-gifs">Hii GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+![Hi](https://tenor.com/view/hii-hello-namaste-namaskharam-salaam-gif-15842127)
 <h1 align="center">Hi 👋, I'm Virendra</h1>
 <h3 align="center">A problem solver from India</h3>
 
