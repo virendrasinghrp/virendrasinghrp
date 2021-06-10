@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 📝 I've started this new blog [virendrasinghrp.github.io/blog](virendrasinghrp.github.io/blog)
+- 📝 I've started this new blog [virendrasinghrp.github.io/blog](https://virendrasinghrp.github.io/blog)
 
 - 📫 How to reach me **virendrasinghrp@gmail.com**
 
